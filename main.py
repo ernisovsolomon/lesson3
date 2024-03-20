@@ -167,6 +167,6 @@
 4) Удаление дубликатов: Создайте список с повторяющимися элементами
 и удалите из него дубликаты.
 '''
-numbers = [53, 89, 12, 89, 12]
-set_list = set(numbers)
-print(set_list)
+# numbers = [53, 89, 12, 89, 12]
+# set_list = set(numbers)
+# print(set_list)
